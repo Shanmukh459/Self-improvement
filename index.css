@@ -6,7 +6,9 @@ html, body {
     color: #220135;
     user-select: none;
     font-family: 'Qwigley', cursive;
-    height: 100vh
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    
 }
 
 #container {
@@ -14,6 +16,7 @@ html, body {
     max-width: 320px;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
 }
 
 img {
