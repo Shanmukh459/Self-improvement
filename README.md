@@ -1,21 +1,21 @@
-# coec640a88ea0a5b677a32084
+# Self Improvement!
 
-Quick start:
+- There are people who has the habit of reading daily life mantras every single day.
+- This application allows you to keep track of all the mantras that you want to read.
+- Users can add a new mantra to their list and delete the items if no longer matches your vibe by double clicking on it.
 
-```
-$ npm install
-$ npm start
-````
+### Tech used
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- JavaScript
+- Firebase
+- HTML 
+- CSS
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### Deployed at
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- You can check out the application at: 
+
+### Screenshot of application
+
 
 Happy Coding!
