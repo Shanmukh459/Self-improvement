@@ -6,6 +6,7 @@ html, body {
     color: #220135;
     user-select: none;
     font-family: 'Qwigley', cursive;
+    height: 100vh
 }
 
 #container {
